@@ -1,4 +1,7 @@
 # VideoCall-WebRtc
+
+¡¡¡please read: readme.pdf!!!!
+
 VideoCall using Webrtc
 
 Webrtc video Call:
